@@ -26,12 +26,12 @@ Volume: 10*100 = 1Tb
 ```
 ## Cлужебные ресурсы к нодам
 ```
-т.к. нод 10 думаю с ними справятся 2 Control plane с 8 Gb 4 core 50 Gb 
+т.к. нод 10 думаю с ними справятся 3 Control plane с 8 Gb 4 core 50 Gb 
 ```
 
 ## Итог:
 ```
-Control plane 8Gb 4 Core 50Gb - 2шт.
+Control plane 8Gb 4 Core 50Gb - 3шт.
 Worker node 4Gb 3 Core 100Gb - 8шт.
 Worker node 8Gb 3 Core 100Gb - 2шт.
 ```
